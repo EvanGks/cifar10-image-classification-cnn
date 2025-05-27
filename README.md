@@ -201,7 +201,13 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-For questions or feedback, please contact Evangelos Gakias at [evangelos.gakias@gmail.com](mailto:evangelos.gakias@gmail.com) or open an issue in the repository.
+For questions or feedback, please reach out via:
+
+- **X (Twitter):** [@Evan6471133782](https://x.com/Evan6471133782)
+- **LinkedIn:** [Evangelos Gakias](https://www.linkedin.com/in/evangelos-gakias-346a9072)
+- **Email:** [vgakias_@hotmail.com](mailto:vgakias_@hotmail.com)
+
+Or open an issue in the repository.
 
 ---
 Happy Coding! 🚀
