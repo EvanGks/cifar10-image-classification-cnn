@@ -1,0 +1,8 @@
+# Required dependencies for running the CNN notebook on CIFAR-10
+
+numpy>=1.18.5         # For numerical computations
+matplotlib>=3.2.2      # For plotting graphs and visualizations
+tensorflow>=2.5.0      # For building and training the CNN (includes Keras)
+scikit-learn>=0.24.0   # For data splitting, model evaluation, and metrics
+seaborn>=0.11.0        # For enhanced data visualization (e.g., heatmaps)
+jupyter>=1.0.0         # To run the notebook environment
